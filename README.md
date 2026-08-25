@@ -6,11 +6,11 @@ A transistor-level **2-input programmable lookup table (LUT)** designed and simu
 
 ### LTspice Schematic
 
-![Transistor-Level LUT Schematic](Transister-Level-LUT-schematic.png)
+![Transistor-Level LUT Schematic](Transistor-Level-LUT-schematic.png)
 
 ### Hardware Setup
 
-![Hardware Setup](Transister-Level-LUT.png)
+![Hardware Setup](Transistor-Level-LUT.png)
 
 ## Overview
 
