@@ -10,7 +10,7 @@ A transistor-level **2-input programmable lookup table (LUT)** designed and simu
 
 ### Hardware Setup
 
-![Hardware Setup](Hardware.jpg)
+![Hardware Setup](Transister-Level-LUT.png)
 
 ## Overview
 
